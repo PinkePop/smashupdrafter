@@ -1,0 +1,404 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": {
+                "fr": "Smash Up",
+                "en": "Smash Up"
+            },
+            "extension": false,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Aliens",
+                        "en": "Aliens"
+                    },
+                    "note": 9
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Dinosaures",
+                        "en": "Dinosaurs"
+                    },
+                    "note": 4
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "ninjas",
+                        "en": "ninjas"
+                    },
+                    "note": 9
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "pirates",
+                        "en": "pirates"
+                    },
+                    "note": 5
+                },
+                {
+                    "id": 5,
+                    "name": {
+                        "fr": "robots",
+                        "en": "robots"
+                    },
+                    "note": 9
+                },
+                {
+                    "id": 6,
+                    "name": {
+                        "fr": "petits peuples",
+                        "en": "tricksters"
+                    },
+                    "note": 4
+                },
+                {
+                    "id": 7,
+                    "name": {
+                        "fr": "sorciers",
+                        "en": "wizards"
+                    },
+                    "note": 8
+                },
+                {
+                    "id": 8,
+                    "name": {
+                        "fr": "zombies",
+                        "en": "zombies"
+                    },
+                    "note": 7
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": {
+                "fr": "Même pas mort",
+                "en": "Awesome Level 9000"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Cavalerie Ours",
+                        "en": "Bear Cavalry"
+                    },
+                    "note": 4
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Fantômes",
+                        "en": "Ghosts"
+                    },
+                    "note": 8
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Plantes Carnivores",
+                        "en": "Killer Plants"
+                    },
+                    "note": 8
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Steampunks",
+                        "en": "Steampunks"
+                    },
+                    "note": 5
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": {
+                "fr": "Cthulhu Fhtagn",
+                "en": "The Obligatory Cthulhu"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Grands Anciens",
+                        "en": "Elder Things"
+                    },
+                    "note": 4
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Innsmouth",
+                        "en": "Innsmouth"
+                    },
+                    "note": 9
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Serviteurs de Cthulhu",
+                        "en": "Minions of Cthulhu"
+                    },
+                    "note": 9
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Université Miskatonic",
+                        "en": "Miskatonic University"
+                    },
+                    "note": 5
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": {
+                "fr": "Séries B",
+                "en": "Science Fiction Double Feature"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Singes Cyborgs",
+                        "en": "Cyborg Apes"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Métamorphes",
+                        "en": "Shapeshifters"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Super Espions",
+                        "en": "Super Spies"
+                    },
+                    "note": 2
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Voyageurs du Temps",
+                        "en": "Time Travelers"
+                    },
+                    "note": 8
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": {
+                "fr": "Trop Minions",
+                "en": "Pretty Pretty"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Chatons",
+                        "en": "Kitty Cats"
+                    },
+                    "note": 7
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Fées",
+                        "en": "Fairies"
+                    },
+                    "note": 7
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Princesses",
+                        "en": "Princesses"
+                    },
+                    "note": 7
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Poneys Magiques",
+                        "en": "Mythic Horses"
+                    },
+                    "note": 6
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": {
+                "fr": "Monstres sacrés",
+                "en": "Monster Smash"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Fourmis Géantes",
+                        "en": "Giant Ants"
+                    },
+                    "note": 3
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Vampires",
+                        "en": "Vampires"
+                    },
+                    "note": 2
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Savants Fous",
+                        "en": "Mad Scientists"
+                    },
+                    "note": 7
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Loups-Garous",
+                        "en": "Werewolves"
+                    },
+                    "note": 7
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": {
+                "fr": "Munchkin",
+                "en": "Munchkin"
+            },
+            "extension": false,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Elfes",
+                        "en": "Elves"
+                    },
+                    "note": 7
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Guerriers",
+                        "en": "Warriors"
+                    },
+                    "note": 5
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Halfelins",
+                        "en": "Halflings"
+                    },
+                    "note": 7
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Magiciens",
+                        "en": "Mages"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 5,
+                    "name": {
+                        "fr": "Nains",
+                        "en": "Dwarves"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 6,
+                    "name": {
+                        "fr": "Orques",
+                        "en": "Orcs"
+                    },
+                    "note": 3
+                },
+                {
+                    "id": 7,
+                    "name": {
+                        "fr": "Prêtres",
+                        "en": "Clerics"
+                    },
+                    "note": 3
+                },
+                {
+                    "id": 8,
+                    "name": {
+                        "fr": "Voleurs",
+                        "en": "Thieves"
+                    },
+                    "note": 2
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": {
+                "fr": "Ressemblances fortuites",
+                "en": "Cease and Desist"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Voyageurs de l'Espace",
+                        "en": "Star Roamers"
+                    },
+                    "note": 5
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Squatteurs de Trône",
+                        "en": "Ignobles"
+                    },
+                    "note": 7
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Chevaliers des Etoiles",
+                        "en": "Astroknights"
+                    },
+                    "note": 7
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Changeformes",
+                        "en": "Changebots"
+                    },
+                    "note": 5
+                }
+            ]
+        }
+    ]
+}
