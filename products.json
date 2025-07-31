@@ -399,6 +399,504 @@
                     "note": 5
                 }
             ]
+        },
+        {
+            "id": 9,
+            "name": {
+                "fr": "Vous l’aurez voulu !",
+                "en": "It’s Your Fault!"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Requins",
+                        "en": "Sharks"
+                    },
+                    "note": 9
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Dragons",
+                        "en": "Dragons"
+                    },
+                    "note": 7
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Mythologies Grecques",
+                        "en": "Mythic Greeks"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Super-Héros",
+                        "en": "Superheroes"
+                    },
+                    "note": 9
+                },
+                {
+                    "id": 5,
+                    "name": {
+                        "fr": "Tornades",
+                        "en": "Tornados"
+                    },
+                    "note": 7
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": {
+                "fr": "Conflit de générations",
+                "en": "What Were We Thinking?"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Explorateurs",
+                        "en": "Explorers"
+                    },
+                    "note": 7
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Grands-Mères",
+                        "en": "Grannies"
+                    },
+                    "note": 8
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Rockstars",
+                        "en": "Rockstars"
+                    },
+                    "note": 10
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Oursons",
+                        "en": "Teddy Bears"
+                    },
+                    "note": 7
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": {
+                "fr": "Rois du Japon",
+                "en": "Big In Japan"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Monstrapoches",
+                        "en": "Itty Critters"
+                    },
+                    "note": 9
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Kaijù",
+                        "en": "Kaiju"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Petites Magiciennes",
+                        "en": "Magical Girls"
+                    },
+                    "note": 5
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Super Combattants",
+                        "en": "Mega Troopers"
+                    },
+                    "note": 3
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": {
+                "fr": "Ces années-là",
+                "en": "That ’70s Expansion"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Danseurs Disco",
+                        "en": "Disco Dancers"
+                    },
+                    "note": 5
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Justiciers",
+                        "en": "Vigilantes"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Maîtres Kung-Fu",
+                        "en": "Kung Fu Fighters"
+                    },
+                    "note": 8
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Routiers",
+                        "en": "Truckers"
+                    },
+                    "note": 7
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": {
+                "fr": "Vous en voulez encore ?",
+                "en": "Oops, You Did It Again"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Cowboys",
+                        "en": "Cowboys"
+                    },
+                    "note": 3
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Égypte Ancienne",
+                        "en": "Ancient Egyptians"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Samouraïs",
+                        "en": "Samurai"
+                    },
+                    "note": 5
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Vikings",
+                        "en": "Vikings"
+                    },
+                    "note": 3
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": {
+                "fr": "Tournée mondiale : Incident diplomatique",
+                "en": "World Tour: International Incident"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Luchadors",
+                        "en": "Luchadors"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Police Montée",
+                        "en": "Mounties"
+                    },
+                    "note": 4
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Mousquetaires",
+                        "en": "Musketeers"
+                    },
+                    "note": 8
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Sumos",
+                        "en": "Sumo Wrestlers"
+                    },
+                    "note": 8
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": {
+                "fr": "Tournée mondiale : Choc des cultures",
+                "en": "World Tour: Culture Shock"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Contes d'Anansi",
+                        "en": "Anansi Tales"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Anciens Incas",
+                        "en": "Ancient Incas"
+                    },
+                    "note": 6
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Contes de Grimm",
+                        "en": "Grimms’ Fairy Tales"
+                    },
+                    "note": 8
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Voyageurs Polynésiens",
+                        "en": "Polynesian Voyagers"
+                    },
+                    "note": 5
+                },
+                {
+                    "id": 5,
+                    "name": {
+                        "fr": "Contes Féeriques Russes",
+                        "en": "Russian Fairy Tales"
+                    },
+                    "note": 8
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": {
+                "fr": "Marvel",
+                "en": "Marvel"
+            },
+            "extension": false,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Avengers",
+                        "en": "Avengers"
+                    },
+                    "note": 9
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Hydra",
+                        "en": "Hydra"
+                    },
+                    "note": 8
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Kree",
+                        "en": "Kree"
+                    },
+                    "note": 8
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Masters of Evil",
+                        "en": "Masters of Evil"
+                    },
+                    "note": 4
+                },
+                {
+                    "id": 5,
+                    "name": {
+                        "fr": "S.H.I.E.L.D",
+                        "en": "S.H.I.E.L.D"
+                    },
+                    "note": 5
+                },
+                {
+                    "id": 6,
+                    "name": {
+                        "fr": "Sinister Six",
+                        "en": "Sinister Six"
+                    },
+                    "note": 5
+                },
+                {
+                    "id": 7,
+                    "name": {
+                        "fr": "Spider-Verse",
+                        "en": "Spider-Verse"
+                    },
+                    "note": 5
+                },
+                {
+                    "id": 8,
+                    "name": {
+                        "fr": "Ultimates",
+                        "en": "Ultimates"
+                    },
+                    "note": 5
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": {
+                "fr": "Moutons",
+                "en": "Sheep"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Moutons",
+                        "en": "Sheep"
+                    },
+                    "note": 5
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": {
+                "fr": "Pingouins",
+                "en": "Penguins"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Pingouins",
+                        "en": "Penguins"
+                    },
+                    "note": 5
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": {
+                "fr": "La Grosse Boîte pour Geek",
+                "en": "The Big Geeky Box"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Geeks",
+                        "en": "Geeks"
+                    },
+                    "note": 10
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": {
+                "fr": "L'Énorme Boîte pour Geek",
+                "en": "The Bigger Geekier Box"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Dream Team",
+                        "en": "Smash Up All Stars"
+                    },
+                    "note": 9
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": {
+                "fr": "Fait son Cinéma",
+                "en": "Excellent Movies, Dudes!"
+            },
+            "extension": true,
+            "factions": [
+                {
+                    "id": 1,
+                    "name": {
+                        "fr": "Hommes d'Action",
+                        "en": "Action Heroes"
+                    },
+                    "note": 0
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "fr": "Retourneurs de Futur",
+                        "en": "Backtimers"
+                    },
+                    "note": 0
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "fr": "Extramorphes",
+                        "en": "Extramorphs"
+                    },
+                    "note": 0
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "fr": "Traqueurs de Spectres",
+                        "en": "Wraithrustlers"
+                    },
+                    "note": 0
+                }
+            ]
         }
     ]
 }
